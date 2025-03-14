@@ -15,5 +15,4 @@ unsigned int strCount(const std::string& word, char letter) {
         if (word[i] == letter) count++;
     }
     return count;
-    return 0;
 }
