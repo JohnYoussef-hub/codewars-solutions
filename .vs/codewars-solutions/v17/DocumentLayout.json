@@ -3,28 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\square_n_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\square_n_sum.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\opposites_attract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\what_s_the_real_floor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\what_s_the_real_floor.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\switch_it_up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\calculate_average.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\calculate_average.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\you_only_need_one_beginner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\count_odd_numbers_below_n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\count_odd_numbers_below_n.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\make_upper_case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\counting_sheep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\counting_sheep.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\is_the_string_uppercase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\is_the_string_uppercase.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -43,79 +39,66 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "square_n_sum.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\square_n_sum.cpp",
-              "RelativeDocumentMoniker": "8kyu\\square_n_sum.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\square_n_sum.cpp",
-              "RelativeToolTip": "8kyu\\square_n_sum.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Title": "opposites_attract.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp",
+              "RelativeDocumentMoniker": "8kyu\\opposites_attract.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp",
+              "RelativeToolTip": "8kyu\\opposites_attract.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:37:19.742Z",
+              "WhenOpened": "2025-03-14T18:03:23.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "what_s_the_real_floor.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\what_s_the_real_floor.cpp",
-              "RelativeDocumentMoniker": "8kyu\\what_s_the_real_floor.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\what_s_the_real_floor.cpp",
-              "RelativeToolTip": "8kyu\\what_s_the_real_floor.cpp",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBYAAAABAAAAAAAAAA==",
+              "Title": "switch_it_up.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp",
+              "RelativeDocumentMoniker": "8kyu\\switch_it_up.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp",
+              "RelativeToolTip": "8kyu\\switch_it_up.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:36:31.868Z",
+              "WhenOpened": "2025-03-14T18:02:31.66Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "calculate_average.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\calculate_average.cpp",
-              "RelativeDocumentMoniker": "8kyu\\calculate_average.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\calculate_average.cpp",
-              "RelativeToolTip": "8kyu\\calculate_average.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Title": "you_only_need_one_beginner.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp",
+              "RelativeDocumentMoniker": "8kyu\\you_only_need_one_beginner.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp",
+              "RelativeToolTip": "8kyu\\you_only_need_one_beginner.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:35:35.891Z",
+              "WhenOpened": "2025-03-14T18:01:59.342Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "count_odd_numbers_below_n.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\count_odd_numbers_below_n.cpp",
-              "RelativeDocumentMoniker": "8kyu\\count_odd_numbers_below_n.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\count_odd_numbers_below_n.cpp",
-              "RelativeToolTip": "8kyu\\count_odd_numbers_below_n.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAIwA8AAAAAAAAAAAAAAA==",
+              "Title": "make_upper_case.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp",
+              "RelativeDocumentMoniker": "8kyu\\make_upper_case.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp",
+              "RelativeToolTip": "8kyu\\make_upper_case.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:34:26.185Z",
+              "WhenOpened": "2025-03-14T18:01:19.927Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "counting_sheep.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\counting_sheep.cpp",
-              "RelativeDocumentMoniker": "8kyu\\counting_sheep.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\counting_sheep.cpp",
-              "RelativeToolTip": "8kyu\\counting_sheep.cpp",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAYwBMAAAAAAAAAAAAAAA==",
+              "Title": "rock_paper_scissors.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp",
+              "RelativeDocumentMoniker": "8kyu\\rock_paper_scissors.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp",
+              "RelativeToolTip": "8kyu\\rock_paper_scissors.cpp",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T14:33:18.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "is_the_string_uppercase.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\is_the_string_uppercase.cpp",
-              "RelativeDocumentMoniker": "8kyu\\is_the_string_uppercase.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\is_the_string_uppercase.cpp",
-              "RelativeToolTip": "8kyu\\is_the_string_uppercase.cpp",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAcwBcAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-13T13:53:04.41Z",
+              "WhenOpened": "2025-03-14T17:57:42.343Z",
               "EditorCaption": ""
             }
           ]
