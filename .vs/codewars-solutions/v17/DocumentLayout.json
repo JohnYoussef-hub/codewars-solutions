@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\opposites_attract.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\alphabet_symmetry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7kyu\\alphabet_symmetry.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\switch_it_up.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\elevator_distance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7kyu\\elevator_distance.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\you_only_need_one_beginner.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\find_count_of_most_frequent_item_in_an_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7kyu\\find_count_of_most_frequent_item_in_an_array.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\make_upper_case.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\sum_of_array_singles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7kyu\\sum_of_array_singles.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:8kyu\\rock_paper_scissors.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\from_a_to_z.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:7kyu\\from_a_to_z.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "opposites_attract.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp",
-              "RelativeDocumentMoniker": "8kyu\\opposites_attract.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\opposites_attract.cpp",
-              "RelativeToolTip": "8kyu\\opposites_attract.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "find_count_of_most_frequent_item_in_an_array.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\find_count_of_most_frequent_item_in_an_array.cpp",
+              "RelativeDocumentMoniker": "7kyu\\find_count_of_most_frequent_item_in_an_array.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\find_count_of_most_frequent_item_in_an_array.cpp",
+              "RelativeToolTip": "7kyu\\find_count_of_most_frequent_item_in_an_array.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwB8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T18:03:23.344Z",
+              "WhenOpened": "2025-03-15T15:26:50.302Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "switch_it_up.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp",
-              "RelativeDocumentMoniker": "8kyu\\switch_it_up.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\switch_it_up.cpp",
-              "RelativeToolTip": "8kyu\\switch_it_up.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Title": "elevator_distance.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\elevator_distance.cpp",
+              "RelativeDocumentMoniker": "7kyu\\elevator_distance.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\elevator_distance.cpp",
+              "RelativeToolTip": "7kyu\\elevator_distance.cpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T18:02:31.66Z",
+              "WhenOpened": "2025-03-15T15:25:07.749Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "you_only_need_one_beginner.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp",
-              "RelativeDocumentMoniker": "8kyu\\you_only_need_one_beginner.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\you_only_need_one_beginner.cpp",
-              "RelativeToolTip": "8kyu\\you_only_need_one_beginner.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "alphabet_symmetry.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\alphabet_symmetry.cpp",
+              "RelativeDocumentMoniker": "7kyu\\alphabet_symmetry.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\alphabet_symmetry.cpp",
+              "RelativeToolTip": "7kyu\\alphabet_symmetry.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T18:01:59.342Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "make_upper_case.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp",
-              "RelativeDocumentMoniker": "8kyu\\make_upper_case.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\make_upper_case.cpp",
-              "RelativeToolTip": "8kyu\\make_upper_case.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T18:01:19.927Z",
+              "WhenOpened": "2025-03-15T15:23:55.812Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "rock_paper_scissors.cpp",
-              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp",
-              "RelativeDocumentMoniker": "8kyu\\rock_paper_scissors.cpp",
-              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\8kyu\\rock_paper_scissors.cpp",
-              "RelativeToolTip": "8kyu\\rock_paper_scissors.cpp",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAYwBUAAAABAAAAAAAAAA==",
+              "Title": "from_a_to_z.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\from_a_to_z.cpp",
+              "RelativeDocumentMoniker": "7kyu\\from_a_to_z.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\from_a_to_z.cpp",
+              "RelativeToolTip": "7kyu\\from_a_to_z.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-03-14T17:57:42.343Z",
+              "WhenOpened": "2025-03-15T15:22:51.878Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "sum_of_array_singles.cpp",
+              "DocumentMoniker": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\sum_of_array_singles.cpp",
+              "RelativeDocumentMoniker": "7kyu\\sum_of_array_singles.cpp",
+              "ToolTip": "C:\\Users\\johnm\\source\\repos\\codewars-solutions\\7kyu\\sum_of_array_singles.cpp",
+              "RelativeToolTip": "7kyu\\sum_of_array_singles.cpp",
+              "ViewState": "AgIAABQAAAAAAAAAAAAYwC0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-15T15:20:50.007Z",
               "EditorCaption": ""
             }
           ]
