@@ -1,6 +1,6 @@
 # Codewars Solutions
 
-This project contains my solutions to programming problems from Codewars. I’m working on these challenges to improve my coding skills. The goal is to document my progress and keep the solutions organized.
+This repository contains my solutions to programming problems from Codewars. I’m working on these challenges to improve my coding skills. The goal is to document my progress and keep the solutions organized.
 
 ## What’s Included?
 - My solutions to Codewars problems.
